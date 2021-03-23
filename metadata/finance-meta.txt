@@ -1,0 +1,1 @@
+www.moneycontrol.com|//script[@type="application/ld+json"]/text()|2|articleBody
